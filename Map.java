@@ -1,3 +1,3 @@
 public class Map {
-    private int map2;
+    private int map1;
 }
